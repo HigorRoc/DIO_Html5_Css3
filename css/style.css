@@ -1,0 +1,47 @@
+body {
+    background: rgb(214, 210, 210);
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: black;
+    font-family: fantasy;
+}
+
+h2 {
+    color: black;
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 40px;
+}
+
+.title_inicio {
+    color: black;
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_parceiros {
+    margin-bottom: 20px;
+    width: 200px;
+}
+
+.logo {
+    width: 30px;
+}
